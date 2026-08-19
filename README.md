@@ -155,7 +155,7 @@ Localization Engine          IMU (QMI8658)
 
 ### Build Steps
 ```bash
-git clone https://github.com/YOUR_USERNAME/MotionScanner
+git clone https://github.com/Arkadianas/MotionScanner
 cd MotionScanner
 idf.py set-target esp32s3
 idf.py build
